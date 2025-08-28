@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	kvs "key-value-store/internal/keyvalue"
+	kvs "key-value-store/frontend/keyvalue"
 
 	"google.golang.org/grpc"
 )
